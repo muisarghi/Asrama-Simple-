@@ -1,0 +1,4 @@
+USER ADMIN
+user	: 000000
+pass	: 123456
+
